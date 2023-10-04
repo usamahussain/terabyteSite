@@ -1,0 +1,46 @@
+.tag-changing.property {
+  height: 58px;
+  position: relative;
+}
+
+.tag-changing .application-2 {
+  color: #fca311;
+  font-family: "Inter", Helvetica;
+  font-size: 64px;
+  font-weight: 700;
+  height: 47px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 5px;
+  white-space: nowrap;
+}
+
+.tag-changing.property-cloud {
+  height: 67px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 626px;
+}
+
+.tag-changing.connectivity {
+  width: 504px;
+}
+
+.tag-changing.cloud-migration {
+  width: 450px;
+}
+
+.tag-changing.application {
+  width: 450px;
+}
+
+.tag-changing.e-commerce {
+  width: 477px;
+}
+
+.tag-changing.UI-UX-design {
+  width: 507px;
+}
